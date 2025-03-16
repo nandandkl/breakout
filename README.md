@@ -30,5 +30,8 @@ This is a simple Brick Breaker game implemented using the `graphics` module in P
 - ⚡ Implement power-ups and special bricks.
 - 🔊 Add sound effects and animations.
 
+## 💬 Feedback
+Have suggestions or issues? Feel free to open an issue or reach out!
+
 Enjoy the game! 🎾
 
