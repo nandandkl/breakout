@@ -153,8 +153,18 @@ def game_loop(canvas, paddle, paddle_y, ball, ball_x, ball_y, bricks):
 
                 break  # Stop checking multiple collisions at once
 
-            if count == 100:
-                print("Congratulations! You have completed the game.")
+        if count == 100:
+            print("Congratulations! You have completed the game.")
+
+            canvas.create_text(
+                CANVAS_WIDTH/2-120, 
+                CANVAS_HEIGHT/2-50, 
+                text = "Congratulations! Your score is",
+                font = 'Arial', 
+                font_size = 20, 
+                color ='skyblue'
+            )
+            break
 
 
         if ball_y <= 0:
