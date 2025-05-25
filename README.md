@@ -34,7 +34,7 @@ This is a simple Brick Breaker game implemented using the `graphics` module in P
 <p align="center">
   <img src="https://github.com/nandandkl/breakout/blob/a5a2543ba9e8ff8038d3e0a4d7d2fbc3281a26ea/screenshot2.png" width="30%">
   <img src="https://github.com/nandandkl/breakout/blob/a5a2543ba9e8ff8038d3e0a4d7d2fbc3281a26ea/screenshot1.png" width="30%">
-  <img src="https://github.com/nandandkl/breakout/blob/a5a2543ba9e8ff8038d3e0a4d7d2fbc3281a26ea/screenshot3.png" width="30%">
+  <img src="https://github.com/nandandkl/breakout/blob/32d8fe8d95c704019710108f5d510f316173e1aa/screenshot3.png" width="30%">
 </p>
 
 ## 🤝 Contributing
